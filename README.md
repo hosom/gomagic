@@ -1,0 +1,2 @@
+# magic
+golang libmagic bindings
