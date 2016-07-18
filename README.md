@@ -6,7 +6,7 @@ golang libmagic bindings
 ```
 sudo apt-get install libmagic-dev
 
-go get github.com/hosom/magic
+go get github.com/hosom/gomagic
 ```
 
 ## Usage
